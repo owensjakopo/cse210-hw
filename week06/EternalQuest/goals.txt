@@ -1,0 +1,4 @@
+ChecklistGoal|Minister|Contact all the people in your list|100|3|3|500
+EternalGoal|Study the scriptures|Study the scriptures every day for 15 minutes|100
+SimpleGoal|Attend Church|Attend church every sunday an all activities|30|False
+Score|850
